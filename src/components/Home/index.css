@@ -1,0 +1,41 @@
+.home-container {
+  background-color: #152850;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+.logo-logout-container {
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-top: 30px;
+  display: flex;
+  justify-content: space-between;
+}
+.website-logo {
+  height: 50px;
+  width: 140px;
+}
+.logout-button {
+  background-color: transparent;
+  border: 1px solid #ffffff;
+  cursor: pointer;
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 16px;
+  font-weight: 400;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+.home-heading {
+  font-family: 'Roboto';
+  font-size: 50px;
+  color: #ffffff;
+  font-weight: bold;
+  text-align: center;
+  padding-top: 60px;
+}
+.digital-card {
+  height: 400px;
+  width: 650px;
+  align-self: center;
+}
